@@ -1,9 +1,3 @@
-﻿using System.Text.Json;
-using WCC;
-using static WCC.Common;
-
-namespace WCC_CS
-{
     // class Network
     /// <summary>
     /// Network related classes
@@ -179,6 +173,4 @@ namespace WCC_CS
                 
         }            
     }
-}
-
 
